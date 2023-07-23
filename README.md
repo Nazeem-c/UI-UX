@@ -13,4 +13,4 @@ Projects
  * A one-stop-solution for all the needs of farmers.
  * Features: Locate agricultural officers in your area, Learn about new farming methods and detect plant disease using
 machine learning and AI.
- * [Show Prototype] (https://www.figma.com/proto/DvVDgUTRJuoByymfS0xISf/loco.ly?page-id=0%3A1&type=design&node-id=1-6&viewport=-13530%2C-13923%2C0.22&t=prWZfeXPJcY0Mh5Q-1&scaling=scale-down&starting-point-node-id=1%3A5)
+ * [Show Prototype](https://www.figma.com/proto/DvVDgUTRJuoByymfS0xISf/loco.ly?page-id=0%3A1&type=design&node-id=1-6&viewport=-13530%2C-13923%2C0.22&t=prWZfeXPJcY0Mh5Q-1&scaling=scale-down&starting-point-node-id=1%3A5)

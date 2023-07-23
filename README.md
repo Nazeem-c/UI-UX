@@ -16,6 +16,6 @@ machine learning and AI.
  * [Show Prototype](https://www.figma.com/proto/DvVDgUTRJuoByymfS0xISf/loco.ly?page-id=0%3A1&type=design&node-id=1-6&viewport=-13530%2C-13923%2C0.22&t=prWZfeXPJcY0Mh5Q-1&scaling=scale-down&starting-point-node-id=1%3A5)
 
 3.SSF
- * SUMMER STARTUP FESTIVAL
- * This vibrant conclave is designed to ignite the spirit of entrepreneurship and provide a platform for tech startups to shine. 
+ * SUMMER STARTUP FESTIVAL: This vibrant conclave is designed to ignite the spirit of entrepreneurship and provide a platform for tech startups to shine.
+ * With a focus on showcasing cutting-edge products, fostering valuable connections, and exploring potential funding opportunities.
  * [Show Prototype](https://www.figma.com/proto/DasonCZloIOZdPi5dCLO2a/SSF_Web?page-id=77%3A6469&type=design&node-id=77-6504&viewport=425%2C371%2C0.07&t=oF4JvC96XTuJU9Cc-1&scaling=min-zoom&starting-point-node-id=77%3A7319&mode=design)
